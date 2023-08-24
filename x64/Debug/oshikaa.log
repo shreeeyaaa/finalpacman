@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\14028\Desktop\final sfml try\oshikaa\Main.cpp(246,37): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  oshikaa.vcxproj -> C:\Users\14028\Desktop\final sfml try\oshikaa\x64\Debug\oshikaa.exe
